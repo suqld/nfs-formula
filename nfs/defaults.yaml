@@ -1,5 +1,5 @@
 nfs:
-  mount_opts: None 
+  mount_opts:
   mkmnt: True
   persist_mount: True
   persist_unmount: False
